@@ -1,0 +1,121 @@
+contact_id,started_at,channel,queue,agent_id,wait_seconds,handle_seconds,outcome,customer_message,customer_rating,priority
+CN-5164-CT-0018,2026-07-05 21:56:00+00:00,email,technical,A002,191.0,568.0,transferred,I think this transaction is fraud,3.0,High
+CN-5164-CT-0176,2026-07-07 08:45:00+00:00,email,billing,A011,207.0,739.0,resolved,I want to know the current plan,5.0,High
+CN-5164-CT-0125,2026-07-08 13:06:00+00:00,chat,technical,A004,46.0,0.0,abandoned,Need help with my account,2.0,High
+CN-5164-CT-0165,2026-07-06 10:36:00+00:00,email,support,A012,,858.0,unresolved,Please process a refund,,High
+CN-5164-CT-0030,2026-07-08 05:51:00+00:00,voice,sales,A009,81.0,894.0,unresolved,Please explain the latest invoice,,Medium
+CN-5164-CT-0040,2026-07-08 22:39:00+00:00,voice,sales,A003,146.0,186.0,resolved,Question about a new subscription,,Medium
+CN-5164-CT-0025,2026-07-05 22:48:00+00:00,chat,technical,A011,183.0,269.0,resolved,,,High
+CN-5164-CT-0146,2026-07-08 21:55:00+00:00,chat,billing,A003,174.0,450.0,resolved,The issue is now resolved,2.0,Medium
+CN-5164-CT-0082,2026-07-08 01:09:00+00:00,chat,sales,A005,111.0,410.0,resolved,Unable to reset my password,,Medium
+CN-5164-CT-0074,2026-07-02 01:35:00+00:00,voice,retention,A012,190.0,242.0,resolved,The previous agent transferred me,,High
+CN-5164-CT-0100,2026-07-02 16:50:00+00:00,email,sales,A006,154.0,603.0,unresolved,Question about a new subscription,3.0,Medium
+CN-5164-CT-0010,2026-07-06 22:57:00+00:00,voice,support,unassigned,94.0,11.0,unresolved,I was charged twice for the same order,,High
+CN-5164-CT-0060,2026-07-01 10:35:00+00:00,chat,sales,A003,185.0,181.0,abandoned,Please explain the latest invoice,2.0,High
+CN-5164-CT-0028,2026-07-07 16:28:00+00:00,chat,sales,A005,7.0,,transferred,The application is not loading,4.0,Medium
+CN-5164-CT-0180,2026-07-05 23:44:00+00:00,email,support,A010,30.0,751.0,unresolved,The previous agent transferred me,3.0,Low
+CN-5164-CT-0031,2026-07-06 14:06:00+00:00,voice,retention,A008,61.0,287.0,resolved,Please call me back,2.0,Medium
+CN-5164-CT-0119,2026-07-07 05:12:00+00:00,unknown,sales,A011,168.0,427.0,transferred,The issue is now resolved,4.0,Medium
+CN-5164-CT-0104,2026-07-08 23:15:00+00:00,unknown,support,A008,,138.0,transferred,Please explain the latest invoice,5.0,Medium
+CN-5164-CT-0058,2026-07-06 08:58:00+00:00,voice,retention,A009,61.0,0.0,abandoned,Please explain the latest invoice,3.0,High
+CN-5164-CT-0095,2026-07-03 05:36:00+00:00,unknown,support,A002,81.0,436.0,unresolved,Question about a new subscription,5.0,Medium
+CN-5164-CT-0159,2026-07-03 23:20:00+00:00,voice,billing,A011,172.0,246.0,resolved,Please call me back,4.0,Medium
+CN-5164-CT-0116,2026-07-06 01:52:00+00:00,voice,technical,A008,130.0,527.0,transferred,,4.0,Medium
+CN-5164-CT-0088,2026-07-08 22:33:00+00:00,email,support,A007,183.0,855.0,transferred,I want to know the current plan,5.0,High
+CN-5164-CT-0164,2026-07-06 14:05:00+00:00,email,sales,A006,,,unresolved,I was charged twice for the same order,1.0,High
+CN-5164-CT-0136,2026-07-08 06:33:00+00:00,unknown,retention,A012,91.0,672.0,resolved,I think this transaction is fraud,,High
+CN-5164-CT-0077,2026-07-08 06:39:00+00:00,email,sales,A007,93.0,613.0,resolved,Unable to reset my password,,Medium
+CN-5164-CT-0024,2026-07-02 11:32:00+00:00,email,technical,A001,33.0,289.0,unresolved,Need help with my account,4.0,Low
+CN-5164-CT-0070,2026-07-04 22:02:00+00:00,chat,unassigned,A007,162.0,147.0,resolved,Need help with my account,4.0,Medium
+CN-5164-CT-0129,2026-07-04 04:52:00+00:00,unknown,technical,A011,217.0,445.0,unresolved,The previous agent transferred me,3.0,High
+CN-5164-CT-0041,2026-07-01 12:29:00+00:00,voice,technical,A006,85.0,827.0,transferred,Need help with my account,,Medium
+CN-5164-CT-0055,2026-07-05 03:34:00+00:00,email,support,A003,45.0,0.0,abandoned,,,High
+CN-5164-CT-0166,2026-07-08 07:33:00+00:00,email,support,A010,50.0,898.0,resolved,Question about a new subscription,,Low
+CN-5164-CT-0141,2026-07-06 14:54:00+00:00,email,technical,A005,62.0,719.0,resolved,Please call me back,4.0,Medium
+CN-5164-CT-0140,2026-07-03 04:47:00+00:00,unknown,support,A012,126.0,269.0,transferred,Question about a new subscription,,Medium
+CN-5164-CT-0053,2026-07-07 16:49:00+00:00,email,support,A005,,175.0,transferred,The previous agent transferred me,1.0,Medium
+CN-5164-CT-0021,2026-07-07 01:57:00+00:00,chat,support,A006,199.0,766.0,transferred,Please process a refund,5.0,High
+CN-5164-CT-0121,2026-07-01 02:55:00+00:00,voice,support,A012,112.0,493.0,abandoned,I want to know the current plan,1.0,High
+CN-5164-CT-0148,2026-07-06 05:07:00+00:00,email,sales,A007,214.0,64.0,unresolved,The issue is now resolved,,High
+CN-5164-CT-0143,2026-07-03 09:29:00+00:00,email,support,A006,193.0,0.0,abandoned,Please call me back,1.0,High
+CN-5164-CT-0032,2026-07-02 17:19:00+00:00,voice,technical,A004,24.0,365.0,transferred,Please explain the latest invoice,2.0,Medium
+CN-5164-CT-0112,2026-07-06 17:17:00+00:00,email,billing,A005,157.0,170.0,resolved,The application is not loading,3.0,Medium
+CN-5164-CT-0126,2026-07-04 18:15:00+00:00,chat,sales,unassigned,165.0,331.0,unresolved,Please explain the latest invoice,2.0,Medium
+CN-5164-CT-0127,2026-07-01 17:18:00+00:00,chat,billing,A012,162.0,893.0,unresolved,I think this transaction is fraud,,High
+CN-5164-CT-0130,2026-07-01 20:42:00+00:00,chat,retention,A006,166.0,506.0,unresolved,I think this transaction is fraud,,High
+CN-5164-CT-0096,2026-07-04 10:27:00+00:00,chat,sales,A001,145.0,406.0,abandoned,,2.0,High
+CN-5164-CT-0155,2026-07-01 12:22:00+00:00,chat,technical,A008,123.0,670.0,resolved,Please explain the latest invoice,2.0,Medium
+CN-5164-CT-0037,2026-07-08 23:44:00+00:00,chat,support,A005,123.0,186.0,unresolved,Please explain the latest invoice,,Medium
+CN-5164-CT-0039,2026-07-02 01:13:00+00:00,chat,support,A009,9.0,649.0,transferred,The previous agent transferred me,,Medium
+CN-5164-CT-0175,2026-07-01 05:33:00+00:00,voice,retention,A006,143.0,569.0,transferred,,2.0,Medium
+CN-5164-CT-0043,2026-07-05 08:08:00+00:00,email,unassigned,A010,95.0,341.0,resolved,,,Medium
+CN-5164-CT-0013,2026-07-08 18:03:00+00:00,chat,billing,A007,73.0,539.0,abandoned,The previous agent transferred me,5.0,High
+CN-5164-CT-0012,2026-07-06 13:32:00+00:00,unknown,sales,A005,,407.0,transferred,I think this transaction is fraud,,High
+CN-5164-CT-0158,2026-07-07 22:27:00+00:00,email,billing,A009,218.0,754.0,unresolved,I was charged twice for the same order,3.0,High
+CN-5164-CT-0086,2026-07-05 05:29:00+00:00,email,billing,A006,108.0,0.0,abandoned,Please explain the latest invoice,5.0,High
+CN-5164-CT-0153,2026-07-02 18:25:00+00:00,email,billing,A007,194.0,684.0,unresolved,The issue is now resolved,,High
+CN-5164-CT-0092,2026-07-06 11:42:00+00:00,voice,technical,A008,14.0,100.0,unresolved,The application is not loading,1.0,Low
+CN-5164-CT-0081,2026-07-02 00:03:00+00:00,chat,technical,A002,206.0,475.0,transferred,Please call me back,3.0,High
+CN-5164-CT-0156,2026-07-06 19:01:00+00:00,email,billing,unassigned,115.0,812.0,abandoned,Please process a refund,1.0,High
+CN-5164-CT-0046,2026-07-07 09:59:00+00:00,unknown,technical,unassigned,77.0,683.0,resolved,Please call me back,5.0,Medium
+CN-5164-CT-0124,2026-07-03 14:21:00+00:00,chat,billing,unassigned,58.0,116.0,transferred,I want to know the current plan,5.0,Medium
+CN-5164-CT-0015,2026-07-05 13:36:00+00:00,chat,technical,A004,107.0,236.0,transferred,,5.0,Medium
+CN-5164-CT-0145,2026-07-05 07:08:00+00:00,chat,support,A003,,755.0,unresolved,,3.0,Low
+CN-5164-CT-0069,2026-07-08 04:34:00+00:00,email,support,A005,35.0,194.0,abandoned,Please explain the latest invoice,5.0,High
+CN-5164-CT-0003,2026-07-02 18:02:00+00:00,chat,billing,A006,74.0,758.0,unresolved,Question about a new subscription,,Medium
+CN-5164-CT-0101,2026-07-01 04:46:00+00:00,email,support,A006,24.0,602.0,abandoned,Please explain the latest invoice,1.0,High
+CN-5164-CT-0091,2026-07-07 12:59:00+00:00,chat,support,A012,185.0,772.0,resolved,I think this transaction is fraud,5.0,High
+CN-5164-CT-0089,2026-07-07 23:37:00+00:00,voice,retention,A009,50.0,123.0,resolved,Question about a new subscription,,Low
+CN-5164-CT-0149,2026-07-07 20:19:00+00:00,chat,billing,A011,102.0,0.0,unresolved,Unable to reset my password,2.0,Medium
+CN-5164-CT-0160,2026-07-04 03:07:00+00:00,email,billing,A007,193.0,,resolved,The application is not loading,4.0,High
+CN-5164-CT-0102,2026-07-06 10:18:00+00:00,voice,technical,A005,57.0,325.0,abandoned,Please explain the latest invoice,,High
+CN-5164-CT-0123,2026-07-05 14:39:00+00:00,unknown,sales,A008,220.0,51.0,transferred,Please process a refund,1.0,High
+CN-5164-CT-0071,2026-07-07 08:31:00+00:00,unknown,support,A012,18.0,765.0,abandoned,I think this transaction is fraud,3.0,High
+CN-5164-CT-0035,2026-07-05 15:21:00+00:00,chat,technical,A009,61.0,779.0,transferred,,3.0,Medium
+CN-5164-CT-0034,2026-07-03 10:36:00+00:00,email,unassigned,A007,56.0,763.0,resolved,I want to know the current plan,4.0,Low
+CN-5164-CT-0059,2026-07-06 22:27:00+00:00,unknown,support,A009,42.0,336.0,transferred,The previous agent transferred me,3.0,Medium
+CN-5164-CT-0073,2026-07-04 09:12:00+00:00,chat,support,unassigned,37.0,208.0,resolved,Please explain the latest invoice,,Low
+CN-5164-CT-0019,2026-07-08 05:46:00+00:00,chat,billing,A011,167.0,719.0,abandoned,I think this transaction is fraud,3.0,High
+CN-5164-CT-0120,2026-07-07 13:50:00+00:00,email,technical,A005,,462.0,transferred,I was charged twice for the same order,,High
+CN-5164-CT-0080,2026-07-05 22:27:00+00:00,voice,retention,A010,166.0,0.0,abandoned,Please explain the latest invoice,2.0,High
+CN-5164-CT-0044,2026-07-08 17:38:00+00:00,chat,technical,A010,114.0,604.0,transferred,I want to know the current plan,,Medium
+CN-5164-CT-0094,2026-07-07 05:24:00+00:00,email,billing,A005,113.0,862.0,transferred,,,Medium
+CN-5164-CT-0007,2026-07-08 20:20:00+00:00,voice,sales,A003,177.0,300.0,resolved,The issue is now resolved,,Medium
+CN-5164-CT-0131,2026-07-05 23:20:00+00:00,voice,unassigned,A001,158.0,691.0,resolved,The previous agent transferred me,5.0,Medium
+CN-5164-CT-0064,2026-07-02 12:24:00+00:00,email,support,unassigned,137.0,863.0,abandoned,The previous agent transferred me,4.0,High
+CN-5164-CT-0022,2026-07-08 14:06:00+00:00,voice,support,A007,160.0,267.0,transferred,I was charged twice for the same order,,High
+CN-5164-CT-0066,2026-07-04 07:53:00+00:00,unknown,billing,A001,107.0,215.0,resolved,I want to know the current plan,1.0,Medium
+CN-5164-CT-0109,2026-07-05 21:09:00+00:00,voice,sales,A002,53.0,517.0,transferred,Unable to reset my password,1.0,Medium
+CN-5164-CT-0163,2026-07-08 01:52:00+00:00,email,retention,A002,51.0,287.0,resolved,I was charged twice for the same order,2.0,High
+CN-5164-CT-0178,2026-07-05 16:10:00+00:00,email,retention,unassigned,218.0,483.0,resolved,I want to know the current plan,1.0,High
+CN-5164-CT-0134,2026-07-02 19:08:00+00:00,chat,sales,A002,146.0,836.0,transferred,The previous agent transferred me,4.0,Medium
+CN-5164-CT-0122,2026-07-02 13:50:00+00:00,chat,support,A005,217.0,623.0,resolved,Please call me back,1.0,High
+CN-5164-CT-0065,2026-07-06 23:20:00+00:00,unknown,billing,A006,118.0,7.0,abandoned,Need help with my account,5.0,High
+CN-5164-CT-0078,2026-07-04 11:01:00+00:00,unknown,retention,unassigned,,619.0,transferred,Please explain the latest invoice,,Medium
+CN-5164-CT-0009,2026-07-06 22:41:00+00:00,unknown,unassigned,unassigned,15.0,442.0,abandoned,I want to know the current plan,2.0,High
+CN-5164-CT-0008,2026-07-06 21:08:00+00:00,unknown,sales,A012,219.0,253.0,transferred,,1.0,High
+CN-5164-CT-0079,2026-07-07 10:47:00+00:00,unknown,sales,unassigned,195.0,499.0,unresolved,,,High
+CN-5164-CT-0106,2026-07-05 23:57:00+00:00,email,support,A005,187.0,417.0,abandoned,The previous agent transferred me,5.0,High
+CN-5164-CT-0049,2026-07-03 17:48:00+00:00,voice,sales,A007,198.0,847.0,transferred,Please explain the latest invoice,4.0,High
+CN-5164-CT-0016,2026-07-02 13:07:00+00:00,voice,unassigned,unassigned,171.0,542.0,abandoned,I was charged twice for the same order,3.0,High
+CN-5164-CT-0002,2026-07-05 13:56:00+00:00,email,support,A011,199.0,494.0,resolved,Need help with my account,4.0,High
+CN-5164-CT-0171,2026-07-07 03:07:00+00:00,email,technical,A003,199.0,607.0,resolved,The issue is now resolved,,High
+CN-5164-CT-0062,2026-07-08 07:05:00+00:00,unknown,support,unassigned,188.0,32.0,abandoned,Please call me back,1.0,High
+CN-5164-CT-0068,2026-07-05 10:39:00+00:00,email,unassigned,A003,186.0,224.0,transferred,,,High
+CN-5164-CT-0138,2026-07-06 12:20:00+00:00,unknown,sales,A008,98.0,563.0,unresolved,,2.0,Medium
+CN-5164-CT-0150,2026-07-07 17:33:00+00:00,email,support,A010,45.0,148.0,resolved,The application is not loading,,Low
+CN-5164-CT-0147,2026-07-01 09:13:00+00:00,email,technical,A007,,238.0,transferred,Please process a refund,3.0,High
+CN-5164-CT-0033,2026-07-08 00:19:00+00:00,email,technical,A001,30.0,437.0,unresolved,The previous agent transferred me,1.0,Low
+CN-5164-CT-0036,2026-07-01 19:53:00+00:00,email,sales,A002,58.0,223.0,abandoned,Please call me back,2.0,High
+CN-5164-CT-0090,2026-07-04 01:12:00+00:00,chat,billing,A007,161.0,172.0,abandoned,I was charged twice for the same order,4.0,High
+ANM-BURST-0001,2026-07-04 19:02:52+00:00,chat,billing,A012,96.0,803.0,abandoned,Need help with my account,3.0,High
+ANM-BURST-0002,2026-07-04 19:02:22+00:00,voice,technical,A011,6.0,148.0,unresolved,The application is not loading,5.0,Low
+ANM-BURST-0003,2026-07-04 19:02:16+00:00,email,support,A009,88.0,317.0,abandoned,Need help with my account,5.0,High
+ANM-BURST-0004,2026-07-04 19:01:57+00:00,voice,sales,A012,87.0,489.0,resolved,The application is not loading,1.0,Medium
+ANM-BURST-0005,2026-07-04 19:01:07+00:00,email,technical,A008,30.0,623.0,resolved,Please explain the latest invoice,5.0,Low
+ANM-BURST-0006,2026-07-04 19:02:47+00:00,chat,support,A007,28.0,595.0,abandoned,Need help with my account,1.0,High
+ANM-BURST-0007,2026-07-04 19:02:20+00:00,chat,support,A001,112.0,468.0,resolved,Need help with my account,1.0,Medium
+ANM-BURST-0008,2026-07-04 19:01:32+00:00,chat,sales,A002,480.0,696.0,abandoned,Please explain the latest invoice,2.0,High
+ANM-BURST-0009,2026-07-04 19:02:29+00:00,email,support,A009,19.0,339.0,resolved,Please explain the latest invoice,5.0,Low
+ANM-BURST-0010,2026-07-04 19:01:48+00:00,chat,billing,A007,20.0,333.0,transferred,The application is not loading,1.0,Medium
+ANM-BURST-0011,2026-07-04 19:01:00+00:00,email,billing,A010,53.0,205.0,transferred,Please explain the latest invoice,4.0,Medium

@@ -1,0 +1,14 @@
+{
+  "candidate_id": "CN-5164",
+  "metrics": {
+    "total_contacts": 120,
+    "voice_contacts": 24,
+    "chat_contacts": 35,
+    "email_contacts": 42,
+    "unknown_channel_contacts": 19,
+    "average_wait_seconds": 119.31,
+    "p90_wait_seconds": 199.0,
+    "abandonment_rate_pct": 23.33,
+    "resolution_rate_pct": 29.17
+  }
+}
